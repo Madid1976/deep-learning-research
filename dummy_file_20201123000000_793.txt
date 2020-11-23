@@ -1,0 +1,1 @@
+Commit content for 2020-11-23 00:00:00 - chore: Automate release process with semantic-release
